@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\bin\Debug\Houssam Attou ctrl 2 C#.exe.config
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\bin\Debug\Houssam Attou ctrl 2 C#.exe
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\bin\Debug\Houssam Attou ctrl 2 C#.pdb
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam Attou ctrl 2 C#.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam_Attou_ctrl_2_C_.Form1.resources
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam_Attou_ctrl_2_C_.Properties.Resources.resources
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam Attou ctrl 2 C#.csproj.GenerateResource.cache
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam Attou ctrl 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam Attou ctrl 2 C#.exe
+C:\Users\pc\Documents\deploiement app\Houssam Attou ctrl 2 C#\Houssam Attou ctrl 2 C#\obj\Debug\Houssam Attou ctrl 2 C#.pdb
